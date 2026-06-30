@@ -97,7 +97,6 @@ INSERT INTO `usuarios` (`documento`, `tipo_doc`, `nombre`, `apellido`, `fecha_na
 ('20123456', 'DNI', 'Carlos', 'Gómez', '1985-04-12', 'carlos.gomez@example.com', 'carlos85', 'clave123', '2026-06-29 01:41:05'),
 ('30987654', 'DNI', 'Ana', 'Martínez', '1992-09-23', 'ana.mtz@example.com', 'anamar', 'clave123', '2026-06-29 01:41:05'),
 ('40111222', 'DNI', 'Lucía', 'Rodríguez', '1998-11-05', 'lucia.rod@example.com', NULL, NULL, '2026-06-29 01:41:05'),
-('44262421', 'DNI', 'Lucia', 'Munoz', '2002-06-24', 'luayelen2417@gmail.com', 'lulalen', 'hola123', '2026-06-30 00:17:30'),
 ('45678912', 'DNI', 'Pedro', 'Lopez', '1995-06-10', 'Pedro@gmail.com', 'pedro95', 'hola123', '2026-06-29 22:09:03');
 
 --
